@@ -48,7 +48,6 @@ body {
   background-image: url("./header-shapes mobile.png");
   background-repeat: no-repeat;
   background-position: 0 8.0375em;
-  
 }
 
 .toogleNav {
@@ -89,7 +88,7 @@ header {
   flex-direction: column;
   box-sizing: border-box;
   min-height: auto;
-  padding:0px;
+  padding: 0;
   margin-top: 2.5em;
 }
 

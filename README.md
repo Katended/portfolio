@@ -107,9 +107,7 @@ Connect with David:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add header
-- [ ] Add footer
-- [ ] Add styling
+- [ ] Add support non mobile devices
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

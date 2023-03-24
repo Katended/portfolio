@@ -37,7 +37,6 @@ label {
   box-sizing: border-box;
 }
 
-
 html,
 body {
   height: 100%;
@@ -66,15 +65,16 @@ body {
 header {
   display: flex;
   font-weight: 700;
-  font-family: Poppins-semibold,sans-serif;
+  font-family: Poppins-semibold, sans-serif;
   font-size: 1.125em;
   box-sizing: border-box;
+
   /* Primary/B400 */
   color: #6070ff;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 1em;
-  height: 40%;  
+  height: 40%;
   margin-left: 7%;
   margin-right: 7%;
   margin-top: 10%;

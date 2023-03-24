@@ -112,48 +112,17 @@ In order to run this project you need:
 2. A Code editor
 3. A Version cotrol sytem(Gt-msc)
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
 
 Run these commands:
 
-<!--
-
-```sh
-  cd my-folder
-  git clone git@github.com:Katended/hello_world.git
-```
---->
-
-
 ### Usage
 
 To run the project, do the following:
 
 Open index.html using a live server extension.
-
-### Run tests
-
-To run tests, run the following command:
-
-> Coming soon!
-
-### Deployment
-
-You can deploy this project using:
-
-> Coming soon!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -175,7 +144,7 @@ Connect with David:
 
 - [ ] Add header
 - [ ] Add footer
-- [ ] Add more styling
+- [ ] Add styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +154,7 @@ Connect with David:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Katended/portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,17 +172,5 @@ If you like this project just give me a star ⭐️!
 
 
 I would like to thank the Microverse team.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

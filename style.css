@@ -37,16 +37,13 @@ label {
   box-sizing: border-box;
 }
 
-.wrapper,
+
 html,
 body {
   height: 100%;
   margin: 0;
   font-family: "Poppins", sans-serif;
   line-height: 1.5em;
-}
-
-.wrapper {
   display: flex;
   flex-direction: column;
   color: #172b4d;
@@ -54,18 +51,6 @@ body {
 
 .toogleNav {
   display: none;
-}
-
-.toolbar #logo {
-  width: 4.75em;
-  height: 1.25em;
-  font-family: Poppins, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 1.125em;
-  line-height: 1.25em;
-  color: #6070ff;
-  margin-top: 1rem;
 }
 
 .bar {
@@ -78,28 +63,24 @@ body {
   background-color: #6070ff;
 }
 
-.section1 {
+header {
   display: flex;
-  box-sizing: border-box;
-}
-
-.toolbar {
-  display: flex;
-  font-weight: bolder;
+  font-weight: 700;
+  font-family: Poppins-semibold,sans-serif;
   font-size: 1.125em;
-
+  box-sizing: border-box;
   /* Primary/B400 */
   color: #6070ff;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 1em;
-  height: 40%;
-  width: 100%;
-  margin-left: 5%;
-  margin-right: 5%;
+  height: 40%;  
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 10%;
 }
 
-.section2 {
+.section1 {
   background-color: transparent;
   display: flex;
   flex-direction: column;
@@ -109,33 +90,33 @@ body {
   min-height: 100%;
 }
 
-.section2 #greetings {
+.section1 #greetings {
   font-size: 2.5em;
   line-height: 1.4em;
   display: flex;
   font-family: Poppins-extrabold, sans-serif;
   margin-top: 2.5em;
   margin-bottom: 0.32em;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 
-.section2 #details {
+.section1 #details {
   line-height: 1.4em;
   text-decoration: solid;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 
-.section2 footer {
+.section1 footer {
   font-size: 1em;
   font-weight: 600;
   font-style: normal;
   line-height: 1.5em;
   color: #7f8cff;
   margin-top: 12px;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 
 .icon-bar {

@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   
-  <img src="./logo.PNG" alt="logo" width="140"  height="auto" />
+  <img src="./images/port.PNG" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>My Portfolio</b></h3>
@@ -28,9 +28,9 @@
 
 
 
-# 📖 Portfolio Project <a name="about-project"></a>
+# 📖 Mobile First Project <a name="about-project"></a>
 
-> This is a personal portfolio project created using HTML,CSS and, JavaScript.
+> This is a personal portfolio project created using HTML,CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,18 +98,14 @@ Open index.html using a live server.
 
 👤 David Katende
 
-Connect with David:
 - GitHub: [@githubhandle](https://github.com/Katended)
 - LinkedIn: [LinkedIn](linkedin.com/in/katende-david-01627461)
 
- 📫 How to reach me katendedavidjoga@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add header
-- [ ] Add footer
-- [ ] Add styling
+- [ ] Add support non mobile devices
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,5 +120,21 @@ Feel free to check the [issues page](https://github.com/Katended/portfolio/issue
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project just give me a star ⭐️!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **How soon are new features coming out?**
+
+  - We currently do not have scheduled release timw
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
